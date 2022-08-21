@@ -31,6 +31,11 @@ In style.css file i write all the code for the styling .
 
 ![image](https://user-images.githubusercontent.com/109961309/183288122-256d9003-0d58-4595-a53f-289398d1b787.png)
 
+# Mobile responsive
+![image](https://user-images.githubusercontent.com/109961309/185787747-272b03c4-12f6-4d83-b9a0-e2f7013a2438.png)
+
+
+
 # Here is my Portfolio Website link click on it to see my website.
 
 [Portfolio](https://deeptiportfolio-websites.netlify.app)
